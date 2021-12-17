@@ -3,4 +3,5 @@
 [Part 2]
 ## Statistics
 **All predicted genes** | **Comparison with MIL-1** | **SwissProt** | **No annotation**
+------------ | ------------- | ------------- | -------------
 3569 | 3281 | 52  | 288 
